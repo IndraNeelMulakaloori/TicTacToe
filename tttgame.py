@@ -1,4 +1,4 @@
-#This program(game) is coded in a simple way without any advanced algortihms in OOPS paradigm
+#This program(game) is coded in a simple way without any (Min-Matrix) & (Alpha-Beta Pruning) advanced algortihms in OOPS paradigm
 import time
 import sys
 #Defining a Board class
